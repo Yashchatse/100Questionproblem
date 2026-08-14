@@ -4,4 +4,4 @@
 3) Find the GCD of 2 numbers
 4) Find Is Number Perfect Number
 5) Check if two string is Anagram
-6) check if two string is Palindrome or not
+6) Check if two string is Palindrome or not
