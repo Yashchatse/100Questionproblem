@@ -6,3 +6,4 @@
 5) Check if two string is Anagram
 6) Check if two string is Palindrome or not
 7) Calculate the frequency of character in String
+8) Bubble sort 
